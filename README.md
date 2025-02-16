@@ -5,7 +5,8 @@
 <P>Team: Purple
 <P>Students
 Sanjana Kanneganti,Sowmya Bathula,Swetha Nunemunthala, Meghana Bodduluri
-#️⃣ **Keywords**:  Section 0010, MLOps, Python, Xcode, Raspberry Pi Pico, iOS Application
+  
+**Keywords**:  Section 0010, MLOps, Python, Xcode, Raspberry Pi Pico, iOS Application
 
 ## 💻 Project Abstract:  
 <P>Breast cancer is one of the most prevalent cancers among women worldwide, and early detection plays a crucial role in improving survival rates. Machine learning techniques can help in predicting whether a tumor is benign or malignant by analyzing key features from diagnostic data. In this project, we develop a predictive model using the Breast Cancer Wisconsin (Diagnostic) dataset to classify tumors based on significant features. </P>
