@@ -1,23 +1,31 @@
-# Name of the Project
+# Breast Cancer Diagnosis
 
 ## About 
 <P>Term: Spring 2025
-<P>Team: Team Name
+<P>Team: Purple
 <P>Students
-
+Sanjana Kanneganti,Sowmya Bathula,Swetha Nunemunthala, Meghana Bodduluri
 #️⃣ **Keywords**:  Section 0010, MLOps, Python, Xcode, Raspberry Pi Pico, iOS Application
 
 ## 💻 Project Abstract:  
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
+<P>Breast cancer is one of the most prevalent cancers among women worldwide, and early detection plays a crucial role in improving survival rates. Machine learning techniques can help in predicting whether a tumor is benign or malignant by analyzing key features from diagnostic data. In this project, we develop a predictive model using the Breast Cancer Wisconsin (Diagnostic) dataset to classify tumors based on significant features. </P>
 
 ### 🫧 Background
 
 Story of why and how this project was concieved with details of challanges and effects.
 
+Breast cancer remains one of the most commonly diagnosed cancers among women worldwide. Early detection is critical, as timely intervention significantly improves survival rates and treatment outcomes. Traditional diagnostic methods rely on biopsies and expert analysis, which can be time-consuming and prone to human error.
+
+This project was conceived with a goal: Can machine learning be used to improve the accuracy and efficiency of breast cancer diagnosis? The idea emerged from the increasing reliance on data-driven decision-making in healthcare. With advancements in technology, it became evident that patterns in diagnostic data could be leveraged to build predictive models, potentially aiding doctors in their decision-making process.
+
+The Breast Cancer Wisconsin (Diagnostic) dataset was chosen because it contains real-world diagnostic features that describe tumor characteristics. The challenge was to determine which features were the most significant for classification and build a reliable model that could distinguish between benign and malignant tumors with high accuracy.
+
+
 ## High Level Requirement
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
+<P>Develop an predictive model to classify breast cancer as benign or malignant using the Breast Cancer Wisconsin dataset.</P>
+<p>Ensure the model achieves high accuracy, sensitivity, and assist in early detection and diagnosis.</P>
+<p>Selecting the most significant features for prediction using various feature selection techniques to improve model interpretability.</P>
+<p>Provide a scalable and efficient solution that can be integrated into medical diagnostic systems. </P>
 
 ### 📋 Functional Requirements
 
