@@ -13,8 +13,6 @@ Sanjana Kanneganti,Sowmya Bathula,Swetha Nunemunthala, Meghana Bodduluri
 
 ### 🫧 Background
 
-Story of why and how this project was concieved with details of challanges and effects.
-
 Breast cancer remains one of the most commonly diagnosed cancers among women worldwide. Early detection is critical, as timely intervention significantly improves survival rates and treatment outcomes. Traditional diagnostic methods rely on biopsies and expert analysis, which can be time-consuming and prone to human error.
 
 This project was conceived with a goal: Can machine learning be used to improve the accuracy and efficiency of breast cancer diagnosis? The idea emerged from the increasing reliance on data-driven decision-making in healthcare. With advancements in technology, it became evident that patterns in diagnostic data could be leveraged to build predictive models, potentially aiding doctors in their decision-making process.
