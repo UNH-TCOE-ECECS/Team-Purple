@@ -32,16 +32,15 @@ The Breast Cancer Wisconsin (Diagnostic) dataset was chosen because it contains 
 
 This project will produce software or system that does following things :
 
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
-
-- lorem ipsum
-- lorem ipsum
-- lorem ipsum
-- lorem ipsum
+Data Handling & Preprocessing:
+Load and preprocess the Breast Cancer Wisconsin dataset.
+Handle missing values and remove unnecessary or irrelevant features.
+Normalize and scale the data for better model performance.
 
 ###  ✅ Non functional Requirements
 
-Other minor requirements and considerations like Cloud deployable solution etc.
+The system should consistently deliver accurate predictions across different datasets.
+The model should be resilient to missing values and outliers in the dataset.
 
 ### ✍🏼 Conceptual Design
 
